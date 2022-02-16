@@ -2,7 +2,7 @@
   "title": "My Website",
   "titleTemplate": "| InvalidNoah",
   "welcomeText": "# Jo, Ich bin Noah - Das ist meine Website\n\nMeine aktuellen Hobbys liegen bei Programmieren, Zocken & Musik hören :D\n\n* UnitedCloud\n* Mein MC Netzwerk",
-  "logo": "/images/uploads/logo.svg",
+  "logo": "/images/uploads/blue_cream_website_front_page.png",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
